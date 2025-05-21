@@ -40,17 +40,14 @@ Variáveis incluídas:
 
 1. Clone o repositório:
 
-```bash
-    git clone https://github.com/
-    cd titanic-analysis
-    ```
+   git clone https://github.com/
+   cd titanic-analysis
+
 
 ## Instale as dependências:
 
-
-```bash
-        pip install -r requirements.txt
-        ```
+    pip install -r requirements.txt
+      
 
 ## 📋 Estrutura do Código
     - script principal (titanicia.py) contém as seguintes funções:
