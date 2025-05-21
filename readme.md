@@ -39,9 +39,11 @@ Variáveis incluídas:
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório:
+
 ```bash
-git clone https://github.com/
-cd titanic-analysis
+    git clone https://github.com/
+    cd titanic-analysis
+    ```
 
 ## Instale as dependências:
 
